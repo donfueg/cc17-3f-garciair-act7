@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaguioRecow</string>
+    <string name="recommendation_image_desc">Image of the recommendation</string>
+    <string name="back_button_desc">Back</string>
+</resources>
